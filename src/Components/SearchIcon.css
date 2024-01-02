@@ -1,0 +1,39 @@
+.SearchIcon {
+  border: 1px solid rgb(84, 83, 83);
+  height: 520px;
+  background-color: rgb(7, 7, 7);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+  overflow: scroll;
+}
+.search_cols {
+  padding: 10px 10px;
+  border: 1px solid rgb(33, 32, 32);
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 150px;
+  background-color: rgb(84, 83, 83);
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: beige;
+}
+.create-photo {
+  color: white;
+  padding: 10px;
+  background-color: red;
+  margin-left: 180px;
+  border-radius: 15px;
+  border: 1px solid black;
+  width: 100px;
+  margin-top: 50px;
+}
+.getImages {
+  border-radius: 5px;
+  margin-left: 30px;
+  width: 400px;
+  height: 350px;
+  overflow: scroll;
+}

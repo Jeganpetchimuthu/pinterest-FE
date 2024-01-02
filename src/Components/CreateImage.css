@@ -1,0 +1,32 @@
+.craeteimages {
+  margin: 0px;
+  margin-top: 0px;
+  border: 1px solid rgb(84, 83, 83);
+  height: 520px;
+  background-color: rgb(15, 15, 15);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+  color: white;
+}
+.img-submit {
+  background-color: red;
+  padding: 10px;
+  margin-left: 200px;
+  margin-top: 50px;
+  border-radius: 15px;
+  border: 1px solid black;
+}
+.file {
+  margin-left: 110px;
+  margin-top: 50px;
+  padding: 15px 15px 15px 15px;
+  height: 10px;
+  background-color: rgb(205, 205, 205);
+  color: black;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding-bottom: 20px;
+}

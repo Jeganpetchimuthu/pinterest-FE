@@ -1,0 +1,53 @@
+.download {
+  color: white;
+  width: 500px;
+  height: 100px;
+  background-color: rgb(61, 58, 58);
+  margin-top: 0px;
+}
+.imgs21 {
+  border: 1px solid rgb(84, 83, 83);
+  height: 300px;
+  background-color: rgb(243, 28, 28);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 500px;
+}
+.img1 {
+  margin-top: 0px;
+  width: 495px;
+  height: 420px;
+  margin-right: 5px;
+  margin-left: 3px;
+}
+.view {
+  background-color: rgb(90, 89, 89);
+  margin-left: 80px;
+  margin-right: -20px;
+  margin-top: 50px;
+  padding: 15px 15px 15px 15px;
+  border-radius: 15px;
+  border-radius: 1px solid;
+  margin-bottom: -30px;
+}
+.save {
+  color: white;
+  background-color: red;
+  margin-left: 100px;
+  margin-top: 50px;
+  padding: 15px 15px 15px 15px;
+  border-radius: 15px;
+  font-weight: bold;
+  margin-bottom: -30px;
+}
+.mh {
+  color: white;
+  margin-left: 400px;
+}
+.likeIcon {
+  background-color: rgb(61, 58, 58);
+  margin-left: 30px;
+  margin-top: 30px;
+}

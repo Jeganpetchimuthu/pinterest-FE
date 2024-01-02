@@ -1,0 +1,56 @@
+.Home-components {
+  border: 1px solid rgb(84, 83, 83);
+  height: 520px;
+  background-color: rgb(20, 19, 19);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+}
+
+.img-head {
+  color: white;
+  margin-left: 200px;
+  margin-top: 30px;
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+.img-flex {
+  margin-left: 0px;
+  width: 250px;
+  height: 900px;
+  padding: 10px 10px;
+}
+.img1 {
+  border-radius: 5px;
+  margin-left: 30px;
+}
+
+.content {
+  color: white;
+}
+.more {
+  color: white;
+  margin-top: -100px;
+  margin-left: 400px;
+  margin-bottom: 35px;
+}
+.home-container {
+  overflow: auto;
+}
+.home-container {
+  background-color: white;
+  border: 1px solid rgb(84, 83, 83);
+  height: 520px;
+  background-color: rgb(20, 19, 19);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+}
+.u {
+  color: white;
+}
